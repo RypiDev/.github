@@ -1,6 +1,11 @@
-# Hello there 👋
+<h1 align="center">
 
-[![Our website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https://rypi.fr)](https://rypi.fr) [![Maitained](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)]("") [![Stars](https://img.shields.io/github/stars/RypiDev?label=%F0%9F%8C%9F&style=for-the-badge)]("")
+[![Maitained](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)]("")
+[![Pull requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)]("")
+[![License MIT](https://img.shields.io/badge/licence-MIT-3a6ede.svg?style=for-the-badge)](../LICENSE)
+[![Code of conduct for open-source](https://img.shields.io/badge/Contributor%20Covenant-v2.0-eb853d.svg?style=for-the-badge)](../CODE_OF_CONDUCT.md)
+
+</h1>
 
 ![Rypî Background](https://github.com/RypiDev/.github/blob/main/profile/assets/Background.png?raw=true)
 
@@ -13,7 +18,7 @@ Welcome to Rypî's organization on Github where we love all things open source. 
 - [Contributions](#🤝-contributions)
   - [An interconnected community](#🍿-an-interconnected-community)
   - [Contributing to the ecosystem](#🦦-contributing-to-the-ecosystem)
-  - [Appendix](#👓-appendix)
+  - [Contributors](#👓-contributors)
 - [Our social network](#🌐-our-social-network)
 
 ## 🤝 Contributions
@@ -33,7 +38,9 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 <!-- Tell the developer that there are code conventions and patterns for each repository.
 	 List the common tools for formatting and linting -->
 
-### 👓 Appendix
+### 👓 Contributors
+
+No one has contributed yet 🙇‍♂️
 
 See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
 
