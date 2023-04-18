@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![Rypî Background](./assets/Background.png)
+![Rypî Background](https://github.com/RypiDev/.github/blob/main/profile/assets/Background.png?raw=true)
 
 Welcome to Rypî's organization on Github where we love all things open source.
 
