@@ -1,10 +1,12 @@
 # Hello there 👋
 
+[![Our website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https://rypi.fr)](https://rypi.fr) [![Maitained](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)]("") [![Stars](https://img.shields.io/github/stars/RypiDev?label=%F0%9F%8C%9F&style=for-the-badge)]("")
+
 ![Rypî Background](https://github.com/RypiDev/.github/blob/main/profile/assets/Background.png?raw=true)
 
-Welcome to Rypî's organization on Github where we love all things open source.
+Welcome to Rypî's organization on Github where we love all things open source. 🥰
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+<!-- what is rypi ? and what what is rypi development -->
 
 ## 🗃️ Table of contents
 
@@ -18,21 +20,18 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 ### 🍿 An interconnected community
 
-The open source community is the 💗 heart of Rypî and fundamental to how we build software today. See for yourself:
+The open source community is the heart of Rypî and fundamental to how we build software/web apps today. See for yourself:
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+<!-- Listing github repositories and shed the light on contributions (see old commits) -->
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+Now that we've talked about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [How To Contribute](https://opensource.guide/).
 
 ### 🦦 Contributing to the ecosystem
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+<!-- Tell the developer that there are code conventions and patterns for each repository.
+	 List the common tools for formatting and linting -->
 
 ### 👓 Appendix
 
@@ -60,4 +59,4 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 
 ## 🌐 Our social network
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M3AwGmtUUn)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M3AwGmtUUn)[![Our website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rypi.fr/)
