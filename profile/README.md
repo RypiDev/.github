@@ -7,6 +7,8 @@
 
 </h1>
 
+---
+
 ![Rypî Background](https://github.com/RypiDev/.github/blob/main/profile/assets/Background.png?raw=true)
 
 Welcome to Rypî's organization on Github where we love all things open source. 🥰
@@ -18,7 +20,6 @@ Welcome to Rypî's organization on Github where we love all things open source. 
 - [Contributions](#🤝-contributions)
   - [An interconnected community](#🍿-an-interconnected-community)
   - [Contributing to the ecosystem](#🦦-contributing-to-the-ecosystem)
-  - [Contributors](#👓-contributors)
 - [Our social network](#🌐-our-social-network)
 
 ## 🤝 Contributions
@@ -29,40 +30,15 @@ The open source community is the heart of Rypî and fundamental to how we build 
 
 <!-- Listing github repositories and shed the light on contributions (see old commits) -->
 
+<!-- See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌. -->
+
 Now that we've talked about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [How To Contribute](https://opensource.guide/).
 
 ### 🦦 Contributing to the ecosystem
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-<!-- Tell the developer that there are code conventions and patterns for each repository.
-	 List the common tools for formatting and linting -->
-
-### 👓 Contributors
-
-No one has contributed yet 🙇‍♂️
-
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
-
-<details>
- <summary>"Tell me more, I can't get enough!"</summary>
- <br>
- <ul>
- <li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-  <li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-   <ul>
-    <li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-    <li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-    <li><a href="https://github.com/Homebrew">Homebrew</a></li>
-   </ul>
-  </li>
-  <li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
- </ul>
-</details>
-
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+<!-- Tell the developer that there are code conventions and patterns for each repository. List the common tools for formatting and linting -->
 
 ## 🌐 Our social network
 
